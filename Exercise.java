@@ -1,12 +1,10 @@
-//Use the modulo operator to set the variable myRemainder equal to 2. You can use any two numbers that return a remainder value of 2.
-
+// Use one of the relational operators above to compare any two integers.
 public class Exercise
 {
 	public static void main(String[] args)
 	{
 		
-		int myRemainder = 6 % 4;
-		System.out.println(myRemainder);
+		System.out.println(5 <= 9);
 	
 	}	
 }
