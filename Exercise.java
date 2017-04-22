@@ -1,12 +1,11 @@
-// Type any whole number in between the parentheses of System.out.println();
-
-// int data types do not need to be typed within quotes, so you can avoid using quotes this time.
+// Type either true or false between the parentheses of System.out.println(); to print a boolean value.
 
 public class Exercise
 {
 	public static void main(String[] args)
-	{
+	{t 
 		
-		System.out.println(12);
+		System.out.println(true);
+		System.out.println(false);
 	}	
 }
