@@ -1,4 +1,4 @@
-class Dog {
+class Dog extends Animal {
   
   int age;
 
@@ -31,6 +31,8 @@ class Dog {
     
     int spikeAge = spike.getAge();
     System.out.println(spikeAge);
+    
+    spike.checkStatus();
 
 	}
 
