@@ -1,12 +1,12 @@
-// Set the int variable myNumber equal to the value 42.
-// Set the boolean variable isFun equal to true.
-// Set the char variable movieRating equal to 'A'.
+// The given code is poorly formatted. Place System.out.println(isFormatted); on line 5 so that it is easier to read.
 
 public class Exercise
 {
 	public static void main(String[] args)
 	{
 		
-		System.out.println('M');	
+		boolean isFormatted = false;
+   		System.out.println(isFormatted);
+	
 	}	
 }
