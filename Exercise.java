@@ -1,11 +1,10 @@
-// Type either true or false between the parentheses of System.out.println(); to print a boolean value.
+// In between the parentheses of System.out.println(); type any single character of your choice. Make sure it's enclosed in single quotes!
 
 public class Exercise
 {
 	public static void main(String[] args)
-	{t 
+	{
 		
-		System.out.println(true);
-		System.out.println(false);
+		System.out.println('M');	
 	}	
 }
